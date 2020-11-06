@@ -1,0 +1,7 @@
+vezetéknév = input ('Mi a vezetékneved?')
+keresztnév = input ('Mi a keresztneved?')
+év = input ('Melyik évben születtél?')
+csillagjegy = input ('Melyik csillagjegyben születtél?')
+print('A te neved ', vezetéknév, keresztnév, '.')
+print('Te', év, '-ben születtél')
+print('Te az', csillagjegy, 'csillagjegyben születtél')
